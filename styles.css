@@ -4,9 +4,12 @@ body{
 p{
     font-size:30px;
      width:1000px;
-    font-family:Lobster;
+  font-family: 'Caveat', cursive;
+
     }
     img{
-        width:175px;}
-        
-        
+        width:299px;}
+        p{
+      background-color:#000000;
+      color: red;
+        }        
